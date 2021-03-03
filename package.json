@@ -1,0 +1,13 @@
+{
+  "name": "pickaxedurability",
+  "version": "1.0.0",
+  "description": "Stupid, Messy program to calculate how far you can dig highways",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "keywords": ["2b2t"],
+  "author": "ToxicAven",
+  "license": "MIT"
+}
